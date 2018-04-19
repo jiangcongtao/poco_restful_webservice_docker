@@ -12,7 +12,7 @@ docker build -t my_cpp_rest_server .
 
 ### 1. Initialize MySQL Database schema
 
-Refer to https://hub.docker.com/r/congtaojiang/cpp-rest-server/
+Refer to https://github.com/jiangcongtao/poco_restful_webservice
 
 ### 2. Start Container
 
